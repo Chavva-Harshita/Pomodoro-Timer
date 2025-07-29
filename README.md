@@ -1,2 +1,43 @@
-# Pomodoro-Timer
-A simple and customizable Pomodoro Timer built using HTML, CSS, and JavaScript to boost focus and productivity.
+# ⏱️ Pomodoro Timer
+
+A simple, responsive, and customizable Pomodoro Timer built using **HTML**, **CSS**, and **JavaScript** to help improve focus and productivity.
+
+---
+
+## 🧠 What is the Pomodoro Technique?
+
+The **Pomodoro Technique** is a time management method that uses 25-minute work intervals followed by short breaks to boost concentration and reduce burnout. It’s especially popular among students and developers.
+
+---
+
+## 🚀 Features
+
+- ✅ 25-minute work sessions
+- 💤 5-minute short breaks
+- 🕒 Reset and pause functionality
+- 🔔 Audio alert at the end of each session
+- 🎨 Clean, minimal UI (mobile-friendly)
+- ⚙️ Easy to customize durations (optional)
+
+---
+
+## 📸 Demo
+[🔗 Live Demo](https://yourusername.github.io/your-repo-name/)  
+<!-- Replace with your actual GitHub Pages link -->
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+---
+
+## 📁 How to Use
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   cd your-repo-name
