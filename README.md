@@ -35,9 +35,4 @@ The **Pomodoro Technique** is a time management method that uses 25-minute work 
 
 ---
 
-## 📁 How to Use
 
-1. **Clone the repository**  
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
