@@ -22,7 +22,7 @@ The **Pomodoro Technique** is a time management method that uses 25-minute work 
 ---
 
 ## 📸 Demo
-[🔗 Live Demo](https://yourusername.github.io/your-repo-name/)  
+[🔗 Live Demo]( https://chavva-harshita.github.io/Pomodoro-Timer/)  
 <!-- Replace with your actual GitHub Pages link -->
 
 ---
